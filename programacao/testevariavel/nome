@@ -1,0 +1,10 @@
+#!/bin/bash
+
+clear
+echo "-----------------------------"
+
+read -p "DIGITA A PORRA DO NOME: " nome
+echo "Ola $nome, seja bem vindo a este teste "
+
+echo "-----------------------------"
+

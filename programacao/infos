@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+
+echo "informa√cao muito importantes"
+oquEuSou="Eu sou uma banana"
+echo "--------------------------------"
+
+echo $oquEuSou
+
+
+
+echo "--------------------------------"
