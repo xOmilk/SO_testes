@@ -3,7 +3,7 @@
 funcionalidades() 
 { 
     # Definindo o diretório onde os scripts criados pelo usuário serão armazenados
-    DIRETORIO_SCRIPTS="$HOME/Zzz_scripts-criados-projeto"
+    DIRETORIO_SCRIPTS="$HOME/abj_tools_scripts"
     # Definindo o arquivo que armazenará a contagem de scripts criados
     ARQUIVO_CONTAGEM="$DIRETORIO_SCRIPTS/qntd_scripts.txt"
 
